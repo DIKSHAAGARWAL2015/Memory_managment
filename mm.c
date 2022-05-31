@@ -2,20 +2,7 @@
  * @file mm.c
  * @brief A 64-bit struct-based implicit free list memory allocator
  *
- * 15-213: Introduction to Computer Systems
- *
- * TODO: insert your documentation here. :)
- *
- *************************************************************************
- *
- * ADVICE FOR STUDENTS.
- * - Step 0: Please read the writeup!
- * - Step 1: Write your heap checker.
- * - Step 2: Write contracts / debugging assert statements.
- * - Good luck, and have fun!
- *
- *************************************************************************
- *
+ * 
  * @author Your Name <dikshaa@andrew.cmu.edu>
  */
 
